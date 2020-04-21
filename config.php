@@ -2,4 +2,4 @@
 $config["server"] = 'localhost';
 $config["username"] = 'root';
 $config["password"] = '';
-$config["database_name"] = 'kpuk';
+$config["database_name"] = 'kampus_db';

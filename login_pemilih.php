@@ -7,7 +7,7 @@
         <form class="form-signin" action="?m=login_pemilih" method="post">
              <img src="images/logo.jpg" align="left" width="70">
              
-            <h2 align="center">Login Pemilihan Peresma<hr></h2><BR>
+            <h2 align="center">Login Pemilihan BEM<hr></h2><BR>
             <div class="form-group">
                 <label>NIM</label>
                 <input type="text" class="form-control" placeholder="NIM " name="user" autofocus />
